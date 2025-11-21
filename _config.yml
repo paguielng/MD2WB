@@ -24,13 +24,13 @@ repository               : "paguielng.github.io/Myportfolio/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Paguiel NGANJI"
+  pronouns         : # example: "He/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Toulouse"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "paguiel.nganji-mucyo@etu.iut-tlse3.fr" 
 
   # Academic websites
   academia         : # URL
