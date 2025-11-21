@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Paguiel NGANJI"
   pronouns         : # example: "He/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Electrical Engineering and Industrial Computing"
+  location         : "Toulouse "
   employer         : "University of Toulouse"
   uri              : # URL
   email            : "paguiel.nganji-mucyo@etu.iut-tlse3.fr" 
@@ -54,14 +54,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "instagram.com/paguielng" # Username
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "linkedin.com/in/paguiel-nganji"
   mastodon         : # URL
@@ -76,7 +76,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "youtube.com/@paguiel-nganji" # Username
+  youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
