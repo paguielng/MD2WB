@@ -24,8 +24,7 @@ To do this, I continuously explore tools and methods that are standard in the in
 - [Wokwi](https://wokwi.com/) for online ESP32 simulator
 - [MatLab](https://www.mathworks.com/products/matlab.html/) for computing simulations
 - [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- [Fusion360](https://www.autodesk.com/fr/products/fusion-360/overview/) for CAO software modeler
 
 Getting started
 ======
