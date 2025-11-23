@@ -34,14 +34,6 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-<!-- NOUVEAU conteneur pour tout décaler -->
 <div class="skills-wrapper">
 
     <ul class="skills-list">
@@ -55,7 +47,6 @@ Skills
         <li>
             <i class="fas fa-microchip"></i>
             <span>Électronique & Hardware</span>
-            <!-- Liste des sous-compétences -->
             <ul class="sub-skills">
                 <li>Arduino / ESP32</li>
                 <li>Analyse de signaux (Oscilloscope)</li>
@@ -67,7 +58,6 @@ Skills
         <li>
             <i class="fas fa-robot"></i>
             <span>Robotique & Automatisme</span>
-            <!-- Liste des sous-compétences -->
             <ul class="sub-skills">
                 <li>Contrôle de moteurs & servomoteurs</li>
                 <li>Capteurs (IMU, Ultrasons)</li>
@@ -81,17 +71,14 @@ Skills
         </li>
     </ul>
 
-</div> <!-- Fin du nouveau conteneur -->
+</div>
 
 
-<!-- Le CSS pour styliser la liste -->
 <style>
-    /* NOUVELLE règle pour créer la tabulation */
     .skills-wrapper {
-        padding-left: 40px; /* C'est cette ligne qui décale tout vers la droite. Ajustez la valeur si besoin. */
+        padding-left: 40px;
     }
 
-    /* Le reste du CSS reste identique */
     .skills-list, .sub-skills {
         list-style-type: none;
         padding-left: 0;
@@ -100,7 +87,7 @@ Skills
     .skills-list > li {
         font-size: 1.2rem;
         font-weight: 600;
-        margin-bottom: 1rem;
+        margin-bottom: 0.5rem; 
         display: flex;
         align-items: center;
         flex-wrap: wrap;
@@ -120,10 +107,11 @@ Skills
         padding-left: 45px;
     }
 
+    /* LES MODIFICATIONS SONT ICI */
     .sub-skills li {
-        font-size: 1rem;
+        font-size: 0.9rem;      /* Taille de police réduite */
         font-weight: 400;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.3rem;  /* Espace vertical réduit */
         position: relative;
         padding-left: 20px;
     }
