@@ -41,6 +41,43 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<section id="skills" class="container">
+        <div class="skills-grid">
+            <div class="skill-card"><i class="fas fa-code"></i> C / C++</div>
+            <div class="skill-card"><i class="fas fa-microchip"></i> Arduino / ESP32</div>
+            <div class="skill-card"><i class="fas fa-bolt"></i> Électronique Analogique & Numérique</div>
+            <div class="skill-card"><i class="fas fa-wave-square"></i> Analyse de signaux (Oscilloscope)</div>
+            <div class="skill-card"><i class="fas fa-cogs"></i> Automatisme</div>
+            <div class="skill-card"><i class="fab fa-python"></i> Python (Notions)</div>
+        </div>
+    </section>
+<style>
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    text-align: center;
+}
+</style>
+<style>
+.skill-card {
+    background-color: var(--card-bg);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    font-size: 1.1rem;
+}
+</style>
+<style>
+.skill-card i {
+    font-size: 2rem;
+    color: var(--secondary-color);
+    margin-bottom: 10px;
+    display: block;
+}
+</style>
+    
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
