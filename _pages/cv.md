@@ -46,21 +46,21 @@ Skills
         <!-- Compétence Principale 2 -->
         <li>
             <i class="fas fa-microchip"></i>
-            <span>Électronique & Hardware</span>
+            <span>Electronics & Hardware</span>
             <ul class="sub-skills">
                 <li>Arduino / ESP32</li>
-                <li>Analyse de signaux (Oscilloscope)</li>
-                <li>Conception de schémas & PCB</li>
+                <li>Signal analysis (Oscilloscope)</li>
+                <li>Schematic & PCB Design</li>
             </ul>
         </li>
 
         <!-- Compétence Principale 3 -->
         <li>
             <i class="fas fa-robot"></i>
-            <span>Robotique & Automatisme</span>
+            <span>Robotics & Automation</span>
             <ul class="sub-skills">
-                <li>Contrôle de moteurs & servomoteurs</li>
-                <li>Capteurs (IMU, Ultrasons)</li>
+                <li>Motor & Servomotor Control</li>
+                <li>Sensors (IMU, Ultrasound)</li>
             </ul>
         </li>
         
@@ -68,6 +68,8 @@ Skills
         <li>
             <i class="fab fa-python"></i>
             <span>Python</span>
+            <ul class="sub-skills">
+                <li>Data analysis (Matplotlib, NumPy)</li>
         </li>
     </ul>
 
@@ -110,7 +112,7 @@ Skills
     /* LES MODIFICATIONS SONT ICI */
     .sub-skills li {
         font-size: 0.9rem;
-        font-weight: 400;
+        font-weight: 200;
         margin-bottom: 0.15rem;  /* Espace vertical encore plus réduit */
         /* J'ai enlevé 'position: relative' et 'padding-left' qui n'étaient utiles que pour la puce */
     }
