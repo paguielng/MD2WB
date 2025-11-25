@@ -151,7 +151,7 @@ Teaching
   
 Languages
 ======
-<ul><em>French (native)</em></ul>
+<ul><em>French (native), English (fluent)</em></ul>
 
 Service and leadership
 ======
