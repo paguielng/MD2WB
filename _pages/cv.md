@@ -149,6 +149,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Languages
+======
+<ul><em>French (native)</em></ul>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
