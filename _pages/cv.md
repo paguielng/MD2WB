@@ -42,7 +42,7 @@ Skills
         <!-- Compétence Principale 1 -->
         <li>
             <i class="fas fa-code"></i>
-            <span>C / C++</span>
+            <span>C / C++/ Web Development</span>
             <!-- Sous-compétences pour C/C++ -->
             <ul class="sub-skills">
                 <li>Object-Oriented Programming (OOP)</li>
