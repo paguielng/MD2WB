@@ -10,6 +10,7 @@ redirect_from:
 I am [Paguiel Nganji](https://www.linkedin.com/in/paguiel-nganji/), I am actualy studing **Electrical Engineering and Industrial Computing**,  and I am passionate about engineering in general and aerospace in particular. I specialize in automation, electronics, embedded systems, and hyperfrequency.
 
   This page presents my academic background and some personal projects. It is a way for me to put my knowledge into practice and share my progress.
+  
   There are examples of my work on my [Github profile](https://github.com/paguielng), such as rocket projects and small electronic gadgets. Each project is an opportunity to learn and improve my skills in solving technical challenges.
 
 A resource-driven personal work
