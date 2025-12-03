@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A logbook on my work in Electronics"
+title: "A logbook of my work"
 author_profile: true
 redirect_from: 
   - /about/
