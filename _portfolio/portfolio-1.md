@@ -4,7 +4,7 @@ excerpt: >
   Freenove Robot Dog Kit for Raspberry Pi
 
   <div style="text-align:center;">
-    <img src="/images/500x300.png" width="225">
+    <img src="/images/500x300.png">
   </div>
 collection: portfolio
 ---
