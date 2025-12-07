@@ -3,8 +3,8 @@ title: "FNK0050"
 excerpt: >
   Freenove Robot Dog Kit for Raspberry Pi
 
-  <div style="text-align:center;">
-    <img src="/images/500x300.png">
+  <div style="text-align:left;">
+    <img src="https://github.com/paguielng/12DOF/raw/main/code/client/Picture/dog_calibration.png">
   </div>
 collection: portfolio
 ---
