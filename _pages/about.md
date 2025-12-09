@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am [Paguiel Nganji](https://www.linkedin.com/in/paguiel-nganji/), I am actualy studing **Electrical Engineering and Industrial Computing**,  and I am passionate about engineering in general and aerospace in particular. I specialize in automation, electronics, embedded systems, and hyperfrequency.
+I am [Paguiel Nganji](https://www.linkedin.com/in/paguiel-nganji/), I am actualy studing **Electrical Engineering and Industrial Computing**,  and I am passionate about engineering in general and aerospace in particular. I specialize in electronics, embedded computing, and hyperfrequency.
 
   This page presents my academic background and some personal projects. It is a way for me to put my knowledge into practice and share my progress.
   
